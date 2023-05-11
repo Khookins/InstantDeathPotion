@@ -1,0 +1,1 @@
+execute as @s run give @p splash_potion{display:{Name:'{"text":"Subject ???","color":"dark_red","bold":true}',Lore:['{"text":"A Voidless Death..."}','{"text":"A Substance Unknown To Man..."}']},Enchantments:[{}],CustomPotionEffects:[{Id:7,Amplifier:69b,Duration:20,ShowParticles:0b}],CustomPotionColor:0} 1

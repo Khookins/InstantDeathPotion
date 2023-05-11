@@ -1,0 +1,1 @@
+execute as @s run tellraw @s [{"text":"ABOUT: ","color":"gold","bold":true,"underlined":true},{"text":"Welcome To Khookins IDP! This Datapack Allows The user To Recreate The 1.17.1 Bug That Allowed Making Instant Death Potions That Could Even Kill Creative Players! ","color":"dark_aqua","hoverEvent":{"action":"show_text","contents":[{"text":"(AboutText)","color":"yellow"}]}}]
